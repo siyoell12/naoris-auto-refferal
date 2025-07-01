@@ -28,9 +28,9 @@ This script is private and access is restricted.
 📣 Join the Community
 Stay updated, get access, and receive support through our channels:
 
-🗨️ Telegram Group: @independendropers
+🗨️ Telegram Group: https://t.me/independendropers
 
-💬 Discord Server: Join Here
+💬 Discord Server: https://discord.gg/Tuy2bR6CkU
 
-📺 YouTube Channel: Airdrop Independen
+📺 YouTube Channel: https://www.youtube.com/@airdropindependen
 
