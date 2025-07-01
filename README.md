@@ -3,7 +3,7 @@
 This script automates the referral process for the Naoris platform, enabling efficient and scalable account creation using referral codes.
 
 🔧 Features
-🆕 Auto Email Generator
+- 🆕 Auto Email Generator
 Randomly generates unique email addresses for each referral.
 
 🔁 Mass Account Creation
