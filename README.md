@@ -1,4 +1,5 @@
 🚀 Naoris Auto Referral Bot
+
 This script automates the referral process for the Naoris platform, enabling efficient and scalable account creation using referral codes.
 
 🔧 Features
