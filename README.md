@@ -6,16 +6,16 @@ This script automates the referral process for the Naoris platform, enabling eff
 - 🆕 Auto Email Generator
 Randomly generates unique email addresses for each referral.
 
-🔁 Mass Account Creation
+- 🔁 Mass Account Creation
 Loops through multiple account creations automatically.
 
-🌍 Proxy Support
+- 🌍 Proxy Support
 Supports HTTP and SOCKS5 proxies to avoid bans and rate limits.
 
-📑 Account Logging
+- 📑 Account Logging
 Saves all created accounts to accounts.txt for easy tracking.
 
-📂 Environment Configuration
+- 📂 Environment Configuration
 All settings are managed via the .env file for easy customization.
 
 🔐 Access Policy
